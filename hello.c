@@ -1,7 +1,7 @@
 /**
  * Author: Mason Filter, Tyler Rayl
  *         mfilter@huskers.unl.edu
- * Date: 2022/08/23
+ * Date: 2022/08/25
  *
  * A simple hello world program in C
  *
@@ -12,7 +12,8 @@
 int main(int argc, char **argv) {
 
   printf("Hello World!\n");
-  printf("Mason Filter\n");
+  printf("Mason Filter!\n");
+  printf("Electrical Engineering\n");
 
   return 0;
 }
